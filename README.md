@@ -1,2 +1,3 @@
 # DA-project
-This is the project related to data analysis
+This is a project related to data analysis
+Author- Ruchith Talanki
